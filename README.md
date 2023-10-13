@@ -7,4 +7,7 @@
 - ⚡ No hay nadie menos afortunado que el hombre a quien la adversidad olvida, pues no tiene oportunidad de ponerse a prueba. -Séneca- / There is no one less fortunate than the man whom adversity forgets, since he has no opportunity to prove himself. -Seneca-
 
 
-Querido Señor o señorita de rrhh, puedes entrar ahora a mi Linkedin y contactarme para una oportunidad laboral si se atreve / Dear Sir or Miss HR, you can now enter my Linkedin and contact me for a job opportunity if you dare. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
+Querido Señor o señorita de rrhh, puedes entrar ahora a mi Linkedin y contactarme para una oportunidad laboral si se atreve / Dear Sir or Miss HR, you can now enter my Linkedin and contact me for a job opportunity if you dare.  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
+
+
+No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte
