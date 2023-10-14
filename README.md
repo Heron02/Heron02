@@ -1,3 +1,5 @@
+![bannerweb]([https://github.com/esarmiem/esarmiem/assets/114357859/c8dfbfaf-abdc-4767-aad3-41360410428b](https://media.licdn.com/dms/image/D4D16AQEWGm8pvp6xsQ/profile-displaybackgroundimage-shrink_350_1400/0/1697290540489?e=1702512000&v=beta&t=h-aA6N3JAshzrEWcDBXRuZx9NzsglsyObDNMaL-VjnY))
+
 ### ¿QUIÉN SOY?
 
 - 🔭 Estoy ahora mismo trabajando en una app para pedir comida en restaurantes y en un app que permita el cambio de informacion en Tarjetas Mifare Classic mediante NFC. / I’m currently working on app to order food in a restaurant and on a app to modify information of Mifare Classic's cards through NFC.
