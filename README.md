@@ -54,4 +54,10 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 ## **Formación Académica**
 - **Grado Superior Desarrollador de Aplicaciones Multiplataforma / Professional Formation in Multiplatform Apllications Developer
 
- ------------------------------------------------------------![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
+
+
+  __  ___   _    __  _   _   __                                                                               
+ / _|| o \ / \  / _|| | / \ / _|
+( |_n|   /| o |( (_ | || o |\_ \ ![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
+ \__/|_|\\|_n_| \__||_||_n_||__/
+
