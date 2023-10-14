@@ -32,6 +32,9 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
   ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+  ![Java](https://img.shields.io/badge/java-0095D5?style=for-the-badge&logo=java&logoColor=white&labelColor=0095D5)
+  ![C#](https://img.shields.io/badge/C#-0095D5?style=for-the-badge&logo=c#&logoColor=white&labelColor=0095D5)
+  ![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=python&logoColor=white&labelColor=0095D5)
   
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 
@@ -49,6 +52,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/Intelli_JIDEA-B16AD1.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-B16AD1.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
 ## **Formación Académica**
