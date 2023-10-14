@@ -13,3 +13,11 @@ Querido Señor o señorita de rrhh, puedes entrar ahora a mi Linkedin y contacta
 
 
 No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte
+
+¡Gracias por visitar mi perfil! 😊
+
+
+¡Escríbeme! ☕
+
+[![Gmail](https://img.shields.io/badge/Gmail-Elder_Sarmiento-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:heronpliego02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elder_Sarmiento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
