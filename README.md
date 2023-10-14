@@ -56,9 +56,5 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
 
-  __  ___   _    __  _   _   __                                                                               
- / _|| o \ / \  / _|| | / \ / _|
-( |_n|   /| o |( (_ | || o |\_ \
- \__/|_|\\|_n_| \__||_||_n_||__/
 
  ![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
