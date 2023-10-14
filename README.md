@@ -33,7 +33,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
   ![Java](https://img.shields.io/badge/java-e54e29?style=for-the-badge&logo=Java&logoColor=white&labelColor=e54e29)
-  ![C#](https://img.shields.io/badge/c#-9800ff?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=9800ff)
+  ![C#](https://img.shields.io/badge/C-Sharp-9800ff?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=9800ff)
   ![Python](https://img.shields.io/badge/Python-ffe900?style=for-the-badge&logo=python&logoColor=white&labelColor=ffe900)
   
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
