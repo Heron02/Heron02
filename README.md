@@ -19,5 +19,5 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 ¡Escríbeme! ☕
 
-[![Gmail](https://img.shields.io/badge/Gmail-Elder_Sarmiento-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:heronpliego02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elder_Sarmiento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
+[![Gmail](https://img.shields.io/badge/Gmail-Herón_Pliego-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:heronpliego02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Herón_Pliego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
