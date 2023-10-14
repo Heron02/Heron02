@@ -56,4 +56,4 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 
 
-![bannerweb]([https://github.com/Heron02/Heron02/blob/main/H1.jpg](https://github.com/Heron02/Heron02/blob/main/programando.gif)https://github.com/Heron02/Heron02/blob/main/programando.gif)
+![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
