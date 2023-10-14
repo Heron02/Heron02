@@ -19,6 +19,8 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 ¡Escríbeme! ☕
 
+ ![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Herón_Pliego-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:heronpliego02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herón_Pliego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/her%C3%B3n-pliego-crespo-079322281/)
 
@@ -54,7 +56,3 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 ## **Formación Académica**
 - **Grado Superior Desarrollador de Aplicaciones Multiplataforma / Professional Formation in Multiplatform Apllications Developer
 
-
-
-
- ![bannerweb](https://github.com/Heron02/Heron02/blob/main/programando.gif)
