@@ -28,7 +28,7 @@ No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tien
 
 # Tecnologías, Lenguajes y Herramientas
 
-
+  ![PHP](https://img.shields.io/badge/php-0095D5?style=for-the-badge&logo=php&logoColor=white&labelColor=0095D5)
   ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
